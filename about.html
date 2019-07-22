@@ -236,11 +236,35 @@
         <div class="col">
           <h1>Sign Up For Our Newsletter</h1>
           <p>Get the latest content to your inbox every month. No spam, we hate it too </p>
+
+          <!--
           <form class="form-inline justify-content-center">
             <input type="text" class="form-control mb-2 mr-2" placeholder="Enter Name">
             <input type="text" class="form-control mb-2 mr-2" placeholder="Enter Email">
             <button class="btn btn-primary mb-2">Submit</button>
           </form>
+          -->
+
+          <form class=" form-inline justify-content-center row position-relative flex-column needs-validation" novalidate>
+
+         
+
+          <input type="email" name="email" placeholder="Your email ID.." class="email white col-7 col-md-4 col-lg-7 ml-3 form-control" id="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+
+          <br>
+
+          <div class="valid-feedback feedback-pos">
+            Looks good!
+          </div>
+
+          <div class="invalid-feedback feedback-pos">
+            Please input valid email ID
+          </div>
+
+          <button type="submit" class="btn btn-danger text-uppercase sbmt-btn col-3 col-md-2 col-lg-4 ml-1" value="validate">Submit</button>
+
+        </form>
+
         </div>
       </div>
     </div>
@@ -328,6 +352,31 @@
       slideToScroll: 1
     });
   </script>
+
+
+
+
+  <script>
+ // Email Validation
+    (function() {
+  'use strict';
+  window.addEventListener('load', function() {
+    var forms = document.getElementsByClassName('needs-validation');
+    var validation = Array.prototype.filter.call(forms, function(form) {
+      form.addEventListener('submit', function(event) {
+        if (form.checkValidity() === false) {
+          event.preventDefault();
+          event.stopPropagation();
+        }
+        form.classList.add('was-validated');
+      }, false);
+    });
+  }, false);
+})();
+
+  </script>
+
+
   
   </body>
   </html>
