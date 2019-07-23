@@ -220,11 +220,34 @@
         <div class="col">
           <h1>Sign Up For Our Newsletter</h1>
           <p>Get the latest content to your inbox every month. No spam, we hate it too </p>
+
+          <!--
           <form class="form-inline justify-content-center">
             <input type="text" class="form-control mb-2 mr-2" placeholder="Enter Name">
             <input type="text" class="form-control mb-2 mr-2" placeholder="Enter Email">
             <button class="btn btn-primary mb-2">Submit</button>
           </form>
+        -->
+        
+          <form class=" form-inline justify-content-center row position-relative flex-column needs-validation" novalidate>
+
+         
+
+          <input type="email" name="email" placeholder="Your email ID.." class="email white col-7 col-md-4 col-lg-7 ml-3 form-control" id="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+
+          <br>
+
+          <div class="valid-feedback feedback-pos">
+            Looks good!
+          </div>
+
+          <div class="invalid-feedback feedback-pos">
+            Please input valid email ID
+          </div>
+
+          <button type="submit" class="btn btn-danger text-uppercase sbmt-btn col-3 col-md-2 col-lg-4 ml-1" value="validate">Submit</button>
+
+        </form>
         </div>
       </div>
     </div>
@@ -232,6 +255,100 @@
 <hr>
 
 <!-- End hear -->
+
+
+<section id="faq" class="p-5 bg-dark text-white">
+    <div class="container">
+      <h1 class="text-center">Frequently Asked Questions</h1>
+      <hr>
+      <div class="row">
+        <div class="col-md-12">
+
+  <div id="accordion">
+
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link text-white" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <h4> What is Iska London </h4>
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+        <p>Iska London compiles and monitors keyword searches and search volume data from buyers worldwide. This allows us to derive unique market insights; and help sellers boost their product visibility and discover new opportunities. <br><br>Our goal is simple: To help online sellers, like you, choose the best keywords for your product listings and ppc ad campaigns so you can reach more customers.</p>
+    </div>
+
+  </div>
+   </div>
+
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link text-white collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <h4> What is Iska London </h4>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+      <div class="card-body">
+        <p>Iska London compiles and monitors keyword searches and search volume data from buyers worldwide. This allows us to derive unique market insights; and help sellers boost their product visibility and discover new opportunities. <br><br>Our goal is simple: To help online sellers, like you, choose the best keywords for your product listings and ppc ad campaigns so you can reach more customers.</p> 
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header" id="headingSix">
+      <h5 class="mb-0">
+        <button class="btn btn-link text-white collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+          <h4> What is Iska London </h4>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+      <div class="card-body">
+        <p>Iska London compiles and monitors keyword searches and search volume data from buyers worldwide. This allows us to derive unique market insights; and help sellers boost their product visibility and discover new opportunities. <br><br>Our goal is simple: To help online sellers, like you, choose the best keywords for your product listings and ppc ad campaigns so you can reach more customers.</p> 
+      </div>
+    </div>
+  </div>
+
+ 
+  <div class="card">
+    <div class="card-header" id="headingFour">
+      <h5 class="mb-0">
+        <button class="btn btn-link text-white collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          <h4> What is Iska London </h4>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+      <div class="card-body">
+         <p>Iska London compiles and monitors keyword searches and search volume data from buyers worldwide. This allows us to derive unique market insights; and help sellers boost their product visibility and discover new opportunities. <br><br>Our goal is simple: To help online sellers, like you, choose the best keywords for your product listings and ppc ad campaigns so you can reach more customers.</p>  
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header" id="headingFive">
+      <h5 class="mb-0">
+        <button class="btn btn-link text-white collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          <h4> What is Iska London </h4>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+      <div class="card-body">
+         <p>Iska London compiles and monitors keyword searches and search volume data from buyers worldwide. This allows us to derive unique market insights; and help sellers boost their product visibility and discover new opportunities. <br><br>Our goal is simple: To help online sellers, like you, choose the best keywords for your product listings and ppc ad campaigns so you can reach more customers.</p>  
+      </div>
+    </div>
+  </div>
+
+ </div>
+</div>
+</div>
+</div>
+  </section>
   
   
   
@@ -312,6 +429,28 @@
       slideToScroll: 1
     });
   </script>
+
+
+   <script>
+ // Email Validation
+    (function() {
+  'use strict';
+  window.addEventListener('load', function() {
+    var forms = document.getElementsByClassName('needs-validation');
+    var validation = Array.prototype.filter.call(forms, function(form) {
+      form.addEventListener('submit', function(event) {
+        if (form.checkValidity() === false) {
+          event.preventDefault();
+          event.stopPropagation();
+        }
+        form.classList.add('was-validated');
+      }, false);
+    });
+  }, false);
+})();
+
+  </script>
+
   
   </body>
   </html>
