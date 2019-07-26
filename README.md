@@ -46,7 +46,7 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 HTML, CSS and JavaScript: Front end languages that give the application structure, style and interactivity
 
 <ul>
-<li><a href="https://getbootstrap.com/docs/4.1.3/getting-started/introduction/" rel="nofollow">Bootstrap v4.1.3</a>
+<li><a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" rel="nofollow">Bootstrap v4.1.3</a>
 <ul>
 <li>The project uses <strong>Bootstrap</strong> to speed up the development.</li>
 </ul>
@@ -56,12 +56,33 @@ HTML, CSS and JavaScript: Front end languages that give the application structur
 <li>The project uses <strong>Font Awesome</strong> for icons.</li>
 </ul>
 </li>
+ 
 <li><a href="https://code.jquery.com/jquery-3.3.1.min.js" rel="nofollow">JQuery v3.3.1</a>
  
  <ul>
 <li>The project uses <strong>JQuery</strong> for better user experiences as well as to speed up the development.</li>
 </ul>
 </li>
+
+<li><a href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js" rel="nofollow">ekko-lightbox/5.3.0</a>
+ 
+<ul>
+<li>The project uses <strong>ekko-lightboxy</strong> The project uses lightbox in the gallery section to overlay images on the current page.</li>
+</ul>
+
+</li>
+
+<li><a href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js" rel="nofollow">ekko-lightbox/5.3.0</a>
+ 
+<ul>
+<li>The project uses <strong>ekko-lightboxy</strong> The project uses lightbox in the gallery section to overlay images on the current page.</li>
+</ul>
+
+</li>
+
+
+
+
 <hr>
 
 
@@ -98,6 +119,8 @@ Rajaneesh Singh Bhadauria - This project was completed as part of Code Institute
 
 <li> The images used in this site were obtained from: <a href="https://www.merchantwords.com" rel="nofollow"> merchantwords </a> </li>
 
+</ul>
+
 <h2> Acknowledgements </h2> 
 
 <ul>
@@ -105,6 +128,8 @@ Rajaneesh Singh Bhadauria - This project was completed as part of Code Institute
 <li> I used merchant words at work inspired me to make a similar tool to help the non technical sellers: </li>
 
 </ul>
+
+
 
 
 
