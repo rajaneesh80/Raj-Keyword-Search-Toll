@@ -1,6 +1,6 @@
 <hr>
 <h2> ISKA London </h2>
-
+<hr>
 Iska London is a responsive multi-pages business to business cloud-based keywords tool for Amazon market place to help Amazon sellers to
 find high ranking keywords, identify trends, spy on competitors, & optimize product listings.
 <hr>
@@ -13,9 +13,9 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 
 <ul>
 
-<li> About us and what ISKA London can do for the business </li>
+<li> About us and what ISKA London can do for the businesses </li>
 <li> Contact details </li>
-<li> Enquiry form </li>
+<li> Enquiry form to contact back and Demo </li>
 <li> Subscriptions prices and services provided by Iska London </li>
 <li> relevant market research trend presented in multi -blogs </li>
 
