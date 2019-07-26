@@ -1,6 +1,6 @@
-#ISKA London
+<h2>ISKA London </h2>
 
-#Overview
+<h2> Overview </h2>
 .
 .
 .
@@ -8,9 +8,9 @@
 .
 .
 
-#This website was created for -
+ <h2>This website was created for - </h2>
 
-#Features -
+<h2> Features - </h2>
 .
 .
 .
