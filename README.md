@@ -23,7 +23,6 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 
 <p> A demo of this site is available <a href="https://rajaneesh80.github.io/keywords-tool/index.html" rel="nofollow"> here </a>.</p>
 
-</div>
 
 <h2> Getting started / Deployment <h2> 
 
@@ -32,7 +31,7 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 <li> If you wish to deploy a live version of this site, then you will need to create your own Github repo. Navigate to settings and enable Github Pages by setting the Source to master branch. <li>
 </ul>
 
-</div>
+
 
 HTML 5: The project uses HTML 5 to create and organise the structure and content of web pages
 
