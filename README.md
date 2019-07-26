@@ -83,7 +83,7 @@ HTML5, CSS3 and JavaScript: Front end languages that give the application struct
 <li><a href="https://getbootstrap.com/docs/4.3/components/forms/#validation" rel="nofollow"> HTML5, Bootstra4 and Javascripts /</a>
  
 <ul>
-<li>The project uses <strong> HTML5, Bootstra4 and Javascripts</strong> HTML5 and Bootstra4 for form Validation.</li>
+<li>The project uses <strong> HTML5, Bootstra4 and Javascripts</strong> for form Validation.</li>
 </ul>
 
 </li>
