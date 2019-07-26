@@ -48,7 +48,7 @@ HTML, CSS and JavaScript: Front end languages that give the application structur
 Details of the UX design undertaken as part of this project is available in the Wireframes subfolder of projectdocumentation folder. 
 This document outlines how I approached the design of this website.
 
-<h2> Testing <h2>
+<h2> Testing </h2>
 <ul>
 <li> Manual testing was undertaken for this application and satisfactorily passed. </li>
 <li> Testing for Cross Browser Compatibility (website was tested on different browsers) </li>
