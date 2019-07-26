@@ -15,7 +15,7 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 <li> Contact details </li>
 <li> Enquiry form </li>
 <li> Subscriptions prices and services </li>
-<li> relevant market research tend presented in multi -blogs </li>
+<li> relevant market research trend presented in multi -blogs </li>
 
 </ul>
 
