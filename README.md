@@ -1,7 +1,9 @@
+<hr>
 <h2> ISKA London </h2>
 
 Iska London is a responsive multi-pages business to business cloud-based keywords tool for Amazon market place to help Amazon sellers to
 find high ranking keywords, identify trends, spy on competitors, & optimize product listings.
+<hr>
 
 <h2> Overview </h2>
 
@@ -22,6 +24,7 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 </p>
 
 <p> A demo of this site is available <a href="https://rajaneesh80.github.io/keywords-tool/index.html" rel="nofollow"> here </a>.</p>
+<hr>
 
 <div>
 <h2> Getting started / Deployment </h2>
@@ -67,7 +70,7 @@ HTML5, CSS3 and JavaScript: Front end languages that give the application struct
 <li><a href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js" rel="nofollow">ekko-lightbox/5.3.0</a>
  
 <ul>
-<li>The project uses <strong>ekko-lightboxy</strong> The project uses lightbox in the gallery section to overlay images on the current page.</li>
+<li>The project uses <strong>ekko-lightboxy</strong> in the gallery section to overlay images on the current page.</li>
 </ul>
 
 </li>
@@ -75,7 +78,7 @@ HTML5, CSS3 and JavaScript: Front end languages that give the application struct
 <li><a href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.js" rel="nofollow">slick-carousel/1.9.0/</a>
  
 <ul>
-<li>The project uses <strong>Slick.js</strong> The project uses Slick for carouse.</li>
+<li>The project uses <strong>Slick.js</strong> for carouse.</li>
 </ul>
 
 </li>
