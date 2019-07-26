@@ -43,7 +43,7 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 <h2>Technologies Used </h2>
 
 <h3> Built With </h3>
-HTML, CSS and JavaScript: Front end languages that give the application structure, style and interactivity
+HTML5, CSS3 and JavaScript: Front end languages that give the application structure, style and interactivity
 
 <ul>
 <li><a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" rel="nofollow">Bootstrap v4.1.3</a>
@@ -75,7 +75,15 @@ HTML, CSS and JavaScript: Front end languages that give the application structur
 <li><a href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.js" rel="nofollow">slick-carousel/1.9.0/</a>
  
 <ul>
-<li>The project uses <strong>ekko-lightboxy</strong> The project uses Slick for carouse.</li>
+<li>The project uses <strong>Slick.js</strong> The project uses Slick for carouse.</li>
+</ul>
+
+</li>
+
+<li><a href="https://getbootstrap.com/docs/4.3/components/forms/#validation" rel="nofollow"> HTML5, Bootstra4 and Javascripts /</a>
+ 
+<ul>
+<li>The project uses <strong> HTML5, Bootstra4 and Javascripts</strong> HTML5 and Bootstra4 for form Validation.</li>
 </ul>
 
 </li>
