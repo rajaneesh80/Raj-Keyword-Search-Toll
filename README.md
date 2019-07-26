@@ -72,10 +72,10 @@ HTML, CSS and JavaScript: Front end languages that give the application structur
 
 </li>
 
-<li><a href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js" rel="nofollow">ekko-lightbox/5.3.0</a>
+<li><a href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.js" rel="nofollow">slick-carousel/1.9.0/</a>
  
 <ul>
-<li>The project uses <strong>ekko-lightboxy</strong> The project uses lightbox in the gallery section to overlay images on the current page.</li>
+<li>The project uses <strong>ekko-lightboxy</strong> The project uses Slick for carouse.</li>
 </ul>
 
 </li>
