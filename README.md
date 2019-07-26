@@ -36,6 +36,20 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 <li> A demo of this site is available <a href="https://rajaneesh80.github.io/keywords-tool/index.html" rel="nofollow"> here </a>. </li>
 
 </ul>
+</h2> <strongTechnologies Used</strong> </h2>
+<ul>
+<li><a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" rel="nofollow">Bootstrap v4.0.0</a>
+<ul>
+<li>The project uses <strong>Bootstrap</strong> to speed up the development.</li>
+</ul>
+</li>
+<li><a href="https://fontawesome.com/" rel="nofollow">Font Awesome v5.3.1</a>
+<ul>
+<li>The project uses <strong>Font Awesome</strong> for icons.</li>
+</ul>
+</li>
+<li><a href="https://blog.jquery.com/2017/03/20/jquery-3-2-1-now-available/" rel="nofollow">JQuery v3.2.1</a>
+
 
 </p>
 
