@@ -13,10 +13,10 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 
 <ul>
 
-<li> About us and what ISKA London can do for their business </li>
+<li> About us and what ISKA London can do for the business </li>
 <li> Contact details </li>
 <li> Enquiry form </li>
-<li> Subscriptions prices and services </li>
+<li> Subscriptions prices and services provided by Iska London </li>
 <li> relevant market research trend presented in multi -blogs </li>
 
 </ul>
