@@ -41,6 +41,68 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 
 </div>
 
+<div>
+ <h2> Built With </h2>
+HTML, CSS and JavaScript: Front end languages that give the application structure, style and interactivity
+
+</div>
+
+<div>
+
+<h2> UX Design </h2>
+Details of the UX design undertaken as part of this project is available in the Wireframes subfolder of projectdocumentation folder. 
+This document outlines how I approached the design of this website.
+</div>
+
+<div>
+<h2> Testing <h2>
+
+<h3> Manual testing was undertaken for this application and satisfactorily passed. <h3> 
+
+
+<ul>
+
+<li> Testing for Cross Browser Compatibility (website was tested on different browsers) </li>
+<li> Testing for responsiveness (website was tested on different device screen sizes using chrome responsive developer tools) </li>
+<li>Testing the interactive features (single page scroll navigation buttons, hover effects, slide animation, modal form, image carousel buttons, tooltips, collapsible images with text) </li>
+
+</ul>
+</div>
+
+<div>
+
+<h2> Author <h2>
+
+Rajaneesh Singh Bhadauria - This project was completed as part of Code Institute’s Mentored Online Full Stack Web Development course in 2019.
+
+</div>
+
+<div>
+
+<h2> Content </h2> 
+
+<ul>
+
+<li> The text for the Carousel, Menu and About sections were taken from: <a href="https://www.merchantwords.com" rel="nofollow"> merchantwords </a> </li>
+
+</ul>
+
+<h2> Media </h2> 
+
+<ul>
+
+<li> The images used in this site were obtained from: <a href="https://www.merchantwords.com" rel="nofollow"> merchantwords </a> </li>  </li>
+
+<h2> Acknowledgements </h2> 
+
+<ul>
+
+<li> I used merchant words at work inspired me to make a similar tool to help the non technical sellers: </li>
+
+</ul>
+
+</div>
+
 
 
 
