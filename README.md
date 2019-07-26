@@ -36,9 +36,17 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 <li> A demo of this site is available <a href="https://rajaneesh80.github.io/keywords-tool/index.html" rel="nofollow"> here </a>. </li>
 
 </ul>
-</h2> <strongTechnologies Used</strong> </h2>
+</p>
+</div>
+
+<hr>
+<h2>Technologies Used </h2>
+
+<h3> Built With </h3>
+HTML, CSS and JavaScript: Front end languages that give the application structure, style and interactivity
+
 <ul>
-<li><a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" rel="nofollow">Bootstrap v4.0.0</a>
+<li><a href="https://getbootstrap.com/docs/4.1.3/getting-started/introduction/" rel="nofollow">Bootstrap v4.1.3</a>
 <ul>
 <li>The project uses <strong>Bootstrap</strong> to speed up the development.</li>
 </ul>
@@ -48,15 +56,16 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 <li>The project uses <strong>Font Awesome</strong> for icons.</li>
 </ul>
 </li>
-<li><a href="https://blog.jquery.com/2017/03/20/jquery-3-2-1-now-available/" rel="nofollow">JQuery v3.2.1</a>
+<li><a href="https://code.jquery.com/jquery-3.3.1.min.js" rel="nofollow">JQuery v3.3.1</a>
+ 
+ <ul>
+<li>The project uses <strong>JQuery</strong> for better user experiences as well as to speed up the development.</li>
+</ul>
+</li>
+<hr>
 
 
-</p>
 
-</div>
-
-<h2> Built With </h2>
-HTML, CSS and JavaScript: Front end languages that give the application structure, style and interactivity
 
 <h2> UX Design </h2>
 Details of the UX design undertaken as part of this project is available in the Wireframes subfolder of projectdocumentation folder. 
@@ -87,7 +96,7 @@ Rajaneesh Singh Bhadauria - This project was completed as part of Code Institute
 
 <ul>
 
-<li> The images used in this site were obtained from: <a href="https://www.merchantwords.com" rel="nofollow"> merchantwords </a> </li>  </li>
+<li> The images used in this site were obtained from: <a href="https://www.merchantwords.com" rel="nofollow"> merchantwords </a> </li>
 
 <h2> Acknowledgements </h2> 
 
