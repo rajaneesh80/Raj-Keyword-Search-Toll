@@ -23,11 +23,11 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 
 <p> A demo of this site is available <a href="https://rajaneesh80.github.io/keywords-tool/index.html" rel="nofollow"> here </a>.</p>
 
-<h2> Overview </h2>
+<h2> Getting started / Deploymen </h2>
 
 <p>
  
-<h3> It is a front-end only website created for provides, visitors:-  </h3>
+
 
 <ul>
 
