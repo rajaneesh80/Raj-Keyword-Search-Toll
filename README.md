@@ -23,27 +23,10 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 
 <p> A demo of this site is available <a href="https://rajaneesh80.github.io/keywords-tool/index.html" rel="nofollow"> here </a>.</p>
 
-
 <h2> Getting started / Deployment <h2> 
-
+<p>
 <ul>
 <li> If you wish to run this site locally, please clone or download this repo. You can then run index.html or open index.html in your browser.<li>
 <li> If you wish to deploy a live version of this site, then you will need to create your own Github repo. Navigate to settings and enable Github Pages by setting the Source to master branch. <li>
 </ul>
-
-
-
-HTML 5: The project uses HTML 5 to create and organise the structure and content of web pages
-
-CSS 3: The project uses CSS 3 to style and modify the elements
-
-Bootstrap 4: The project uses bootstrap 4 to build a responsive design
-
-Lightbox: The project uses lightbox in the gallery section to overlay images on the current page
-
-Testing -
-
-The website was tested in different screen sizes for a responsive layout
-Each form input was tested guaranteeing its validation with each submission attempt
-Deployment
-The project is deployed at Github Pages.
+</p>
