@@ -23,10 +23,11 @@ find high ranking keywords, identify trends, spy on competitors, & optimize prod
 
 <p> A demo of this site is available <a href="https://rajaneesh80.github.io/keywords-tool/index.html" rel="nofollow"> here </a>.</p>
 
-<h2> Getting started / Deployment <h2> 
+<h3> Getting started - Deployment <h3> 
 <p>
 <ul>
 <li> If you wish to run this site locally, please clone or download this repo. You can then run index.html or open index.html in your browser.<li>
 <li> If you wish to deploy a live version of this site, then you will need to create your own Github repo. Navigate to settings and enable Github Pages by setting the Source to master branch. <li>
+ 
 </ul>
 </p>
