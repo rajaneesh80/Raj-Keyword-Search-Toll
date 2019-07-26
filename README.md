@@ -64,13 +64,14 @@ This document outlines how I approached the design of this website.
 
 <div>
 
-<h2> Author <h2>
-
+<h2> Author </h2>
+<p>
 Rajaneesh Singh Bhadauria - This project was completed as part of Code Institute’s Mentored Online Full Stack Web Development course in 2019.
+</p>
 
 </div>
 
-<div>
+
 
 <h2> Content </h2> 
 
@@ -94,7 +95,7 @@ Rajaneesh Singh Bhadauria - This project was completed as part of Code Institute
 
 </ul>
 
-</div>
+
 
 
 
