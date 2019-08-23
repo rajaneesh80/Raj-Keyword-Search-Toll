@@ -1,5 +1,13 @@
 <hr>
 <h2> ISKA London </h2>
+
+<hr>
+
+<p> I work for Yumi International LTD, and Iska London is the property of Yumi International LTD.
+    I have taken permission to use the name ISKA London.
+    In future, I will make this product commercial and handed over to Yumi International LTD.
+</p>
+
 <hr>
 Iska London is a responsive multi-pages business to business cloud-based keywords tool for Amazon market place to help Amazon sellers to
 find high ranking keywords, identify trends, spy on competitors, & optimize product listings.
