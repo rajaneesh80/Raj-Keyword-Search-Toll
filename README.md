@@ -97,6 +97,18 @@ HTML5, CSS3 and JavaScript: Front end languages that give the application struct
 <li>The project uses <strong> HTML5, Bootstra4 and Javascripts</strong> for form Validation.</li>
 </ul>
 
+<ul>
+<li>The project uses <strong> Amazon AWS -S3 </strong> to store the images </li>
+<li> all the images used in this project stored in Amazon AWS -S3. </li>
+
+</ul>
+
+<ul>
+<li> The project is fully  <strong> responsive  </strong>  all the different devices screenshots taken and put them under-responsive text folder. </li>
+
+
+</ul>
+
 </li>
 
 
